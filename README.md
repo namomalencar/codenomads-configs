@@ -1,1 +1,1 @@
-# codenomads-configs
+# sample-configs
